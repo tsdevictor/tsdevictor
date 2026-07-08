@@ -12,4 +12,3 @@ Selected repositories:
 - `threaded`: Reddit audience-research and ranking tool with Flask, PRAW, GPT, and a lightweight frontend
 - `ducky`: local-first CLI for auditing AI coding-tool usage during development sessions
 - `classic-ai-solvers`: chess, Othello, Sudoku, and crossword solvers using search, backtracking, and board heuristics
-EOF
