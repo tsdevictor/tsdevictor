@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tristan Devictor
 
-<!--
-**tsdevictor/tsdevictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics & Computer Science student at Columbia focused on mathematical machine learning, geometric/data-driven modeling, and applied systems.
 
-Here are some ideas to get you started:
+Currently:
+- Researching Johnson-Lindenstrauss-style embedding guarantees for manifold-structured data
+- Building contrastive protein-ligand representation models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected repositories:
+- `mathematical-ml-from-scratch`: PCA, SVMs, spectral clustering, kernel methods, and neural nets in NumPy
+- `portus`: scans codebases for commercial AI API usage and suggests open-source model replacements
+- `threaded`: Reddit analysis/ranking tool with Flask, PRAW, GPT, and live frontend streaming
+- `ducky`: local CLI for auditing AI coding tool usage during dev sessions
+- `othello-ai`: minimax/alpha-beta Othello engine with custom board evaluation
