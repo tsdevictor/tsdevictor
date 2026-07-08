@@ -11,4 +11,4 @@ Selected repositories:
 - `portus`: scans codebases for commercial AI API usage and suggests open-source model replacements
 - `threaded`: Reddit analysis/ranking tool with Flask, PRAW, GPT, and live frontend streaming
 - `ducky`: local CLI for auditing AI coding tool usage during dev sessions
-- `othello-ai`: minimax/alpha-beta Othello engine with custom board evaluation
+- `classic-ai-solvers`: minimax/alpha-beta Othello engine with custom board evaluation
